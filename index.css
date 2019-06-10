@@ -1,0 +1,9 @@
+canvas {
+	position: relative;
+	font-family: Oswald;
+	display: block;
+	width: 700px;
+	height: 800px;
+	margin: 75px auto;
+	background-color: #52c0e5;
+}
